@@ -33,5 +33,7 @@ public class Department {
 	public void setName(String name) {
 		this.name = name;
 	}
+	
+	//gerar getters e setters para productJava
 
 }

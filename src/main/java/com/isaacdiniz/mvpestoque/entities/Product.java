@@ -21,7 +21,7 @@ public class Product {
 
 	@ManyToOne
 	@JoinColumn(name = "department_id")
-	private Department department;
+	private Department department; //Receber lista
 
 	public Product() {
 	}
